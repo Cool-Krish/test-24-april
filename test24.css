@@ -1,0 +1,44 @@
+body{
+    margin: 0px;
+    overflow: hidden;
+}
+.main{
+    margin:20px;
+}
+#k1{
+    /* height: 100vh; */
+    background:url("https://wallpaperaccess.com/full/1101226.jpg") ;
+    padding: 20px;
+}
+#k2{
+    width: 350px;
+    background-color: rgb(128, 128, 128);
+    height: 80vh;
+    margin: 0px auto;
+}
+#k3{
+    text-align: center;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+img{
+    border-radius:50px;
+}
+#k5{
+    padding: 10px;
+    text-align: center;
+}
+#p1{
+    padding: 5px;
+    color: #80ffff;
+}
+
+.pt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.conts{
+    text-align: center;
+width: 50%;
+}
