@@ -42,3 +42,15 @@ img{
     text-align: center;
 width: 50%;
 }
+.b1{
+    all: unset;
+    padding: 5px, 10px;
+    border: 1px solid rebeccapurple;
+    cursor: pointer;
+    background-color:aquamarine;
+
+    
+}
+.b1:hover{
+    background-color:blueviolet;
+}
